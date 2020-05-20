@@ -50,3 +50,6 @@ https://play.google.com/store/apps/details?id=cryt.pay.app
 
 
 Or integrate the System following instruction above to Start Accept CRYT Payments now!
+
+  ----
+## More examples coming soon! ##
