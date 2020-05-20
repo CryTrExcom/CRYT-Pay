@@ -25,7 +25,9 @@ Once the user sends the payment, exact CRYT with "NOT CRYPTED" message, the syst
 Through the callback "https://pay.crytrex.com/order_details_ipn.php?order_id=**ORDERID**&custom=**CUSTOM**" you can check verify and update the status of an order with the combination ORDER_ID and CUSTOM and proceed by updating the payment information on your website.
 
 status = 0 *ORDER NOT PAID
+
 status = 1 *ORDER COMPLETED
+
 
 IPN endpoint url return a JSON with all details, included the Transaction id from CRYT Blockchain.
 
