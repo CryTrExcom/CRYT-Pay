@@ -40,3 +40,12 @@ CRYT Pay works in a simple, fast, anonymous and integrable way in a few minutes.
 Supported Currency with Live Exchange Rates:
 
 | USD | EUR | GBP | JPY | CAD | AUD | HKD | RUB | ISK | PHP | DKK | HUF | CZK | RON | SEK | IDR | INR | BRL | THB | CHF | MYR | BGN | NOK | NZD | MXN | SGD | ILS | KRW | PLN | 
+
+
+Can see and use Browser Version for Accept CRYT Payments Locally from your Browser:
+https://pay.crytrex.com/new_order_mobile.html
+
+Use CRYT Pay App from Google Play Store:
+https://play.google.com/store/apps/details?id=cryt.pay.app
+
+Or integrate the System following instruction above to Start Accept CRYT Payments now!
