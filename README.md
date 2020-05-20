@@ -36,3 +36,7 @@ And the payment system is complete.
 CRYT Pay works in a simple, fast, anonymous and integrable way in a few minutes.
   
   ----
+  
+Supported Currency with Live Exchange Rates:
+
+| USD | EUR | GBP | JPY | CAD | AUD | HKD | RUB | ISK | PHP | DKK | HUF | CZK | RON | SEK | IDR | INR | BRL | THB | CHF | MYR | BGN | NOK | NZD | MXN | SGD | ILS | KRW | PLN | 
